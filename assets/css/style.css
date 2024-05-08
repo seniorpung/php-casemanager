@@ -1,0 +1,59 @@
+.name-style{
+	width: 32%;
+	float: left;
+	margin-right: 4px;
+}
+.name-style1{
+	width: 33%;
+	float: left;
+}
+.name-style2{
+	width: 33%;
+	float: right;
+}
+.phone-style{
+	width: 48%;
+	float: right;
+}
+.email-style{
+	width: 50%;
+	float: left;
+}
+.editbtn{
+	background-color: #7a7fdc!important;
+}
+.address1{
+	width: 50%;
+	float: left;
+}
+.address2{
+	width: 49%;
+	float: right;
+}
+
+.ssn {
+    padding: 0px 0;
+    position: relative;
+}
+.ssn .form-control {
+    border: none;
+    height: 0px;
+    padding-left: 17px;
+    padding-right: 50px;
+    border: 1px solid #ced4da;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.ssn .btn {
+    position: absolute;
+    right: 3px;
+    top: 3px;
+    padding: 0 10px;
+}
+.padlr{
+	padding-left: 1px!important;
+	padding-right: 1px!important;
+}
+.lbl{
+	width: 8%;
+}
